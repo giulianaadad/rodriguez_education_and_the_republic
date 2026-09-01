@@ -1,6 +1,10 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,,,,,,"Philosphers ",,,,,,,,,
-3,,,,,,Popular Education,,,,,,,,,
-4,,,,,,"Why does Rodriguez focus on the difference between educated philosophers and ordinary people? ",,,,,,,,,
-5,,,,,,,,,,,,,,,
+1,,,,,,"Philosophers ",,,,,,,,,
+2,sa1840imprentaenp2-english-first,0.5089395259413153,0.2711074566465319,3.1148298533079286,,"Why does the author capitilize ""Philosphers"" ""Genius ",,,,,,,,,
+3,sa1840imprentaenp1-english-first,0.47425122696314104,0.35144704604945515,1.7279999999999998,,Who are the philosophers?,Philosophers are a varient of the Critics,,,,,,,,
+4,,,,,,People,,,,,,,,,
+5,sa1842cycleenp1-english-first,0.5,0.5,1,,"Why does Rodriguez believe the poor should be educated? ","Rodriguez believe that ",,,,,,,,
+6,sa1840imprentaenp2-english-first,0.5081757285235091,0.6097261869706547,2.0681045228201596,,,,,,,,,,,
+7,,,,,,,,,,,,,,,
+8,sa1840imprentaenp2-english-first,0.5071027938000311,0.2964345922452986,1.6280999999999997,,Universality,"Rodriguez believes that in order to bridge the gap between philosophers and the people, a popular, social education must be put into order.",,,,,,,,
