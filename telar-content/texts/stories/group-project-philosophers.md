@@ -2,4 +2,4 @@
 title: "Philosophers "
 ---
 
-Simon Rodriguez claims there are only two species of men who Open books; the Curious and the Critics. Within each species are two varieties. Philosophers are a varient of the Critics.
+The only exception to this are the Philosophers, who simply judge. To the right of the word "judge" are brackets in which every word is italicized. This is done deliberately to showcase that, unlike the other varieties, the Philosopher's importance lies in the content of his judgments.
