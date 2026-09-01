@@ -1,0 +1,5 @@
+---
+title: "Learn More "
+---
+
+This section emphasizes the social hierarchy that, as the reading "The ‘Immoral’ Educator: Race, Gender and Citizenship in Simón Rodríguez’s Programme for Popular Education" by Nicola Miller confirms. As Ángel Rama points out, there was a "significant gap" between writing and spoken speech. Thus, Rodríguez’s concern for correct linguistic usage was intrinsically connected to his desire to encourage the capacity for independent thought in all citizens. Only through a social education that taught children to question received wisdom could respect for authority based on reason, rather than force..." (page 18, Miller). This section of writing mirrors the social structure between the educated and non-educated, like Philosphers to be described as "Genius"; however, this was a reason Rodriguez wanted a universal education for children. 
