@@ -1,0 +1,1 @@
+This section emphasizes the social hierarchy that, as the reading "The ‘Immoral’ Educator: Race, Gender and Citizenship in Simón Rodríguez’s Programme for Popular Education" by Nicola Miller confirms. Miller notes that Rodríguez  
