@@ -1,5 +1,6 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-0,final-group-project,Guamán Poma,,,,
-1,codex-selden,Codex Mendoza,,Raymond Vargas,,
-2,simon-rodriguez,Simon Rodriguez,,Giuliana Adad,,
+0,final-group-project,"Guaman Poma ","When a writing system is introduced to another, what changes, what continues, and what is forgotten at times? ","Ashley Vazquez ",,
+1,khipu,Khipu,"""to knot a knot""",Delmi Lipe,,
+2,codex-selden,Codex Mendoza,,Raymond Vargas,,
+3,simon-rodriguez,Simon Rodriguez,Painting with Words,Giuliana Adad,,
