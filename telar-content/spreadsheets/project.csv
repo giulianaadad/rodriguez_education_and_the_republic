@@ -1,6 +1,7 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-0,final-group-project,"Guaman Poma ","When a writing system is introduced to another, what changes, what continues, and what is forgotten at times? ","Ashley Vazquez ",,
-1,khipu,Khipu,"""to knot a knot""",Delmi Lipe,,
-2,codex-selden,Codex Mendoza,,Raymond Vargas,,
+0,codex-selden,The Codex Mendoza,A brief History of Mexican History,Raymond Vargas,,
+1,khipu,"The Khipu ","The Khipu as a Pre-Colonial Inca Record Keeping System ",Delmi Lipe,,
+2,final-group-project,"Guaman Poma ","When a writing system is introduced to another, what changes, what continues, and what is forgotten at times? ","Ashley Vazquez ",,
 3,simon-rodriguez,Simon Rodriguez,Painting with Words,Giuliana Adad,,
+4,avantgarde,Avant-Garde,Vanguardia y concretismo,Destiny Ali,,

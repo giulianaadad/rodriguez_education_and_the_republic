@@ -1,0 +1,5 @@
+---
+title: "What changes: Writing for the conqueror"
+---
+
+The greatest transformation in the Codex Mendoza may not be the appearance of the individual signs themselves, but the political situation surrounding them. Mexica visual writing had previously operated within Indigenous communities and political institutions. In the Codex Mendoza, however, that knowledge was being collected under the authority of Antonio de Mendoza, the Spanish viceroy of New Spain, and prepared for a European royal audience.("Códice Mendoza") The same kinds of information now served a different political purpose. Spanish officials wanted to understand the territory and population over which they claimed authority. As a result, Indigenous writing became part of the colonial production of knowledge. This shows that a writing system can change even when many of its visible signs remain the same. Changing the person who commissions a document, the audience expected to read it, and the reasons for recording information can transform what writing does. The Codex Mendoza therefore demonstrates that writing is never separated from institutions of power.

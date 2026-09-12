@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+The knots on each cord show how the Incas recorded numbers through placement and quantity. In the image, each cord in Cluster 10 has a different number of knots. Specifically there is one knot on p67, four on p65, three on p64, two on p69, and so on. Garcilaso explains that knots were arranged "in order of units, tens, hundreds, thousands," and that they "never exceed nine" within each position (p. 330).The variation in knot counts visually demonstrates the numerical system Garcilaso describes. Each cord represents a specific value within the same category, allowing the Incas to track quantities with precision. When written numerals replaced knots in the colonial period, the tactile method was forgotten, but the underlying logic of positional counting continued.

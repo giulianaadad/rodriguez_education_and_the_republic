@@ -1,0 +1,5 @@
+---
+title: "Learn more"
+---
+
+The full khipu shows that the Incas kept records by spreading information across many cords attached to one main cord. In the image, dozens of pendants cords hang an oderly line from a single long primary cord. Garliso explains that each thread had its own subject and that items "were arranged in order, beggining with the most important and proceeding to the least" (pp. 328-330).Because each cord carries its own pience of information, the entire set forms one complete record made from many parts. The visual layout itself reveals the system where separate strands for separate entries, all connected through one organized structure. When alphabetic writing replaced the khipu in the colonial period, the material form changed, but the principle of organizing information into distinct units remained.

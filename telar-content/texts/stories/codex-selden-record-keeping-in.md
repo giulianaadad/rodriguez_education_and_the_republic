@@ -1,0 +1,5 @@
+---
+title: "Record keeping in pre-colonial Mexico"
+---
+
+Before Spanish alphabetic writing appeared beside Mexica writing, Indigenous scribes already possessed a complicated system for recording information. Rather than relying primarily on strings of alphabetic letters, Mexica painter-scribes used pictures, place glyphs, numerical signs, calendars, positioning, and color. The frontispiece of the Codex Mendoza demonstrates how much information could be communicated visually. The city of Tenochtitlan, its rulers, warfare, and the passage of time appear through an arrangement of images rather than paragraphs. For this system to function, however, the images alone were not enough. Readers needed shared knowledge about what particular symbols meant and how they were supposed to be read.(Boone) Writing therefore depended not simply upon marks placed on a surface, but upon a community capable of interpreting those marks. This becomes especially important after the conquest because Spanish readers did not possess the same visual literacy. The encounter between the two writing traditions therefore created a problem of translation.

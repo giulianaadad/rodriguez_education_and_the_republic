@@ -1,3 +1,16 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,codex-mendoza-fol,0.4653341697080294,0.4831963900862069,1,,Record Keeping significance in Mexico,"Mexicans before Colonial contact had very important reasons to keep records. Every 52 years was marked with a year of bad fortune throughout the valley. ",,,,,,,,
+1,codex-mendoza-fol,0.4653341697080294,0.4831963900862069,1,,Mexico's Non-written History,"What you're looking at is from the Codex Mendoza.(c. 1541-1542)
+On the frontispiece, the founding and early history of Tenochtitlan are communicated through images and glyphs. Place signs identify locations, figures identify rulers and warriors, and other visual symbols communicate political and historical information.",,Learn more,codex-selden-record-keeping-in.md,,,,,
+2,codex-mendoza-fol,0.40523719336462594,0.44319893451432296,2.48832,,"One page, two systems",The Codex contains Indigenous pictorial material accompanied by Spanish glosses and commentary. A Spanish-speaking annotator familiar with Nahuatl supplied explanations based on Indigenous interpretation of the glyphs.,,Learn more,codex-selden-learn-more.md,,,,,
+3,codex-mendoza-fol-4,0.5315872886991501,0.507058352720955,0.8999999999999999,,What stays the same: Tribute and Indigenous information systems,The second section of the Codex records tribute owed by different provinces to the Mexica imperial capital.,,Learn more,codex-selden-step3-layer1.md,Go deeper,codex-selden-what-changes-writing.md,,,
+4,codex-mendoza-fol-5,0.4348362112144112,0.255151821954472,2.0106123264,,Everyday life: What pictorial writing could still communicate,"The Codex's third section records aspects of Mexica everyday life and social customs.
+Look at things such as:
+parents teaching children
+weaving
+age
+gender
+education
+occupations
+",,Learn more,codex-selden-step4-layer1.md,,,,,
+5,codex-mendoza-fol-5,0.5,0.5,1,,Neither survival nor replacement: a hybrid document,,,Learn more,codex-selden-step5-layer1.md,,,,,
